@@ -1,3 +1,10 @@
+/* ID's */
+.impressum {
+  color: black;
+}
+
+
+/* LAYOUT */
 * {
   box-sizing: border-box;
 }
