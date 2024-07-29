@@ -6,6 +6,14 @@
   src: url('fonts/MarketingScript.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: "Avenir-Light"
+  src: url('fonts/Avenir-Light.ttf') format('truetype')
+}
+
+
+
+
 /* EINZELNDES */
 
 a.impressum {
@@ -37,7 +45,7 @@ body {
 }
 
 .header h2 {
-  font-family: Avenir Light, sans-serif;
+  font-family: Avenir-Light, sans-serif;
 }
 
 
