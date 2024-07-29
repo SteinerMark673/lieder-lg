@@ -14,7 +14,7 @@
 
 
 
-/* EINZELNDES */
+/* WEITERES */
 
 a.impressum {
   color: black;
@@ -27,7 +27,7 @@ a.impressum {
 }
 
 body {
-  font-family: Arial;
+  font-family: Avenir-Light, sans-serif;
   padding: 10px;
   background: #f1f1f1;
 }
