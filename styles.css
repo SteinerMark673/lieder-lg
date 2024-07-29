@@ -24,6 +24,11 @@ a.impressum {
   color: black;
 }
 
+h2 h3 h4 h5 h6 {
+  font-family: Raleway, Avenir-Light, sans-serif;
+}
+
+
 
 /* LAYOUT */
 * {
