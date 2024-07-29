@@ -36,6 +36,11 @@ body {
   font-family: MarketingScript, Arial, sans-serif;
 }
 
+.header h2 {
+  font-family: Avenir Light, sans-serif;
+}
+
+
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
