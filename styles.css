@@ -7,10 +7,14 @@
 }
 
 @font-face {
-  font-family: "Avenir-Light"
+  font-family: 'Avenir-Light'
   src: url('fonts/Avenir-Light.ttf') format('truetype')
 }
 
+@font-face {
+  font-family: 'Raleway'
+  src: url('fonts/Raleway-VariableFont_wght.ttf') format('truetype')
+}
 
 
 
