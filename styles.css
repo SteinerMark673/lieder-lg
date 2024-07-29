@@ -100,7 +100,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  position: relative
+  position: absolute
 }
 
 
@@ -112,7 +112,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  position: absolute
+  position: relative
 }
 
 
