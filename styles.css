@@ -1,8 +1,12 @@
+
+/* FONTS */
+
 @font-face {
   font-family: 'MarketingScript';
   src: url('fonts/MarketingScript.ttf') format('truetype');
 }
 
+/* EINZELNDES */
 
 a.impressum {
   color: black;
