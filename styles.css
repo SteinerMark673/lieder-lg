@@ -12,7 +12,7 @@
 }
 
 @font-face {
-  font-family: 'Raleway'
+  font-family: 'Raleway-VariableFont_wght'
   src: url('fonts/Raleway-VariableFont_wght.ttf') format('truetype')
 }
 
@@ -29,7 +29,7 @@ a.link {
 }
 
 h2 h3 h4 h5 h6 {
-  font-family: Raleway, Avenir-Light, sans-serif;
+  font-family: Raleway-VariableFont_wght, Avenir-Light, sans-serif;
 }
 
 button {
