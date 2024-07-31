@@ -133,12 +133,21 @@ body {
   padding-left: 20px;
 }
 
-/* Fake image */
+/* image - Platzhalter und Bild */
 .fakeimg {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
 }
+
+.img {
+  width: 100%
+  padding: 20px
+  object-fit: cover;
+}
+
+
+
 
 /* Add a card effect for articles */
 .card {
