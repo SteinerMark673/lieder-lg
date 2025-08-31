@@ -19,4 +19,4 @@ The project is intended for private use only. If you would like to take somethin
 
 ### Copyright
 
-© Linus Gerhard, Juli 2024, Hamburg, Germany
+© Mark Steiner, Juni 2024, Germany
